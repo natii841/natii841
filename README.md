@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-A self-taught web app developer, driven by a passion for crafting innovative digital solutions to real-world challenges. I take pride in transforming ideas into dynamic, user-centric applications and am committed to continuous learning and mastery of emerging technologies.
+A self-taught web app developer and 3rd Year Software Engineering student at Jimma University, driven by a passion for crafting innovative digital solutions to real-world challenges. I take pride in transforming ideas into dynamic, user-centric applications and am committed to continuous learning and mastery of emerging technologies.
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [#](http://e)

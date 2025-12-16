@@ -1,24 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natanim Wondwossen
-==========================================================================================================================================
+<!-- ===================== -->
+<!--  HACKER-STYLE README  -->
+<!-- ===================== -->
 
-Student
------------------
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Natanim%20(Nati);Full+Stack+Developer;Searching+%7C+Solutions+%7C+Web;Think.+Build.+Grind.+Fix." />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-windows-black?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-black?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Shell-cmd-black?style=for-the-badge&logo=cmd" />
+</p>
+
+---
+
+## About Me
 
 I am self-taught Programming student, driven by a passion for crafting innovative digital solutions to real-world challenges. I take pride in transforming ideas into dynamic, user-centric applications and am committed to continuous learning and mastery of emerging technologies.
+### Tools & Systems
+```text
+Postman | VsCode | Docker | Coffee🍵 | 
+```
 
-* 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [#](http://e)
-* ✉️  You can contact me at [natiyehiowtlij@gmail.com](mailto:natiyehiowtlij@gmail.com)
-* 🤝  I'm open to collaborating on Ai related Projects.
-
-<a href="https://www.github.com/natii841" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/natii841?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+> *“Let's Connect”*
 
 ### Skills
 
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 

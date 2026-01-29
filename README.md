@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am self-taught Programming student, driven by a passion for crafting innovative digital solutions to real-world challenges. I take pride in transforming ideas into dynamic, user-centric applications and am committed to continuous learning and mastery of emerging technologies.
+Self-taught developer & tech enthusiast obsessed with turning bold ideas into working, user-loving products. Constantly learning, building, and chasing the next challenge that makes a real difference.
 ### Tools & Systems
 ```text
 Postman | VsCode | Docker | Coffee🍵 | 

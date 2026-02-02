@@ -19,7 +19,7 @@
 Self-taught developer & tech enthusiast obsessed with turning bold ideas into working, user-loving products. Constantly learning, building, and chasing the next challenge that makes a real difference.
 ### Tools & Systems
 ```text
-Postman | VsCode | Docker | Coffee🍵 | 
+Git | VsCode | Ai | Coffee🍵 | 
 ```
 
 > *“Let's Connect”*

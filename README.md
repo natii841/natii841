@@ -16,7 +16,7 @@
 
 ## About Me
 
-Self-taught developer & tech enthusiast obsessed with turning bold ideas into working, user-loving products. Constantly learning, building, and chasing the next challenge that makes a real difference.
+Self-taught Fullstack-developer & tech enthusiast obsessed with turning bold ideas into working, user-loving products. Constantly learning, building, and chasing the next challenge that makes a real difference.
 ### Tools & Systems
 ```text
 Git | VsCode | Ai | Coffee🍵 | 

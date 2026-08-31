@@ -1,6 +1,6 @@
 # Natanim Wondwossen
 
-Frontend & Full-Stack Web Developer building responsive web applications and practical web tools. 
+Self taught Developer, building responsive web applications and practical web tools. 
 
 ---
 

@@ -17,3 +17,5 @@ Self taught Developer, building responsive web applications and practical web to
 - **GitHub:** [natii841](https://github.com/natii841)
 - **X:** [@natii1606](https://www.x.com/natii1606)
 - **Instagram:** [@nnat_ii](https://www.instagram.com/nnat_ii)
+### Cirtificates
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/52330238-5aeb-462d-8241-b613d1ae1732.jpeg?v=1790838687)](https://www.boot.dev/certificates/52330238-5aeb-462d-8241-b613d1ae1732)
